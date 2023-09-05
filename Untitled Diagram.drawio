@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T04:04:54.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.9" etag="HjH2pc2tFIf4_p1Eo6EX" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T16:31:18.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="EGzHuWW-FT4U6QCUDXdo" version="21.6.9" type="github">
   <diagram name="Page-1" id="diHbso8ii2bBXqjwmjkJ">
-    <mxGraphModel>
+    <mxGraphModel dx="1134" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wNT15DUYCdo1MhswSWh7-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wNT15DUYCdo1MhswSWh7-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="40" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wNT15DUYCdo1MhswSWh7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.271;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="89.61000000000011" as="sourcePoint" />
+            <mxPoint x="599.9997999999998" y="89.29000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNT15DUYCdo1MhswSWh7-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNT15DUYCdo1MhswSWh7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wNT15DUYCdo1MhswSWh7-4" target="wNT15DUYCdo1MhswSWh7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wNT15DUYCdo1MhswSWh7-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="980" y="55" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wNT15DUYCdo1MhswSWh7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.187;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wNT15DUYCdo1MhswSWh7-2" target="wNT15DUYCdo1MhswSWh7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wNT15DUYCdo1MhswSWh7-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="40" width="73.8" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wNT15DUYCdo1MhswSWh7-22" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="73.8" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wNT15DUYCdo1MhswSWh7-23" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="610" y="490" width="73.8" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wNT15DUYCdo1MhswSWh7-24" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="620" y="690" width="73.8" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wNT15DUYCdo1MhswSWh7-26" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="610" y="180" width="50" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
